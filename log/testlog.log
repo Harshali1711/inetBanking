@@ -1,0 +1,279 @@
+2020-02-18 18:12:04,203 - TC_LoginTest_001.class -INFO - Uql opened
+2020-02-18 18:12:04,445 - TC_LoginTest_001.class -INFO - Entered username
+2020-02-18 18:12:04,553 - TC_LoginTest_001.class -INFO - Entered Password
+2020-02-18 18:12:05,922 - TC_LoginTest_001.class -INFO - login test Passed
+2020-02-19 11:26:35,663 - TC_LoginTest_001.class -INFO - Uql opened
+2020-02-19 11:26:36,367 - TC_LoginTest_001.class -INFO - Entered username
+2020-02-19 11:26:36,466 - TC_LoginTest_001.class -INFO - Entered Password
+2020-02-19 11:26:38,280 - TC_LoginTest_001.class -INFO - login test Passed
+2020-02-19 15:31:51,582 - TC_LoginTest_001.class -INFO - Uql opened
+2020-02-19 15:31:51,708 - TC_LoginTest_001.class -INFO - Entered username
+2020-02-19 15:31:51,835 - TC_LoginTest_001.class -INFO - Entered Password
+2020-02-19 15:31:53,140 - TC_LoginTest_001.class -INFO - login test Passed
+2020-02-19 15:39:37,641 - TC_LoginTest_001.class -INFO - Uql opened
+2020-02-19 15:39:37,774 - TC_LoginTest_001.class -INFO - Entered username
+2020-02-19 15:39:37,854 - TC_LoginTest_001.class -INFO - Entered Password
+2020-02-19 15:39:39,227 - TC_LoginTest_001.class -INFO - login test Passed
+2020-02-19 16:13:02,542 - TC_LoginTest_001.class -INFO - Uql opened
+2020-02-19 16:13:02,640 - TC_LoginTest_001.class -INFO - Entered username
+2020-02-19 16:13:02,681 - TC_LoginTest_001.class -INFO - Entered Password
+2020-02-19 16:13:09,340 - TC_LoginTest_001.class -INFO - login test Passed
+2020-02-19 16:47:28,994 - TC_LoginTest_001.class -INFO - Uql opened
+2020-02-19 16:47:29,092 - TC_LoginTest_001.class -INFO - Entered username
+2020-02-19 16:47:29,139 - TC_LoginTest_001.class -INFO - Entered Password
+2020-02-19 16:47:34,285 - TC_LoginTest_001.class -INFO - login test Passed
+2020-02-19 17:12:55,427 - TC_LoginTest_001.class -INFO - Url opened
+2020-02-19 17:12:55,512 - TC_LoginTest_001.class -INFO - Entered username
+2020-02-19 17:12:55,551 - TC_LoginTest_001.class -INFO - Entered Password
+2020-02-19 17:13:01,966 - TC_LoginTest_001.class -INFO - login test Passed
+2020-02-19 17:14:55,747 - TC_LoginTest_001.class -INFO - Url opened
+2020-02-19 17:14:55,826 - TC_LoginTest_001.class -INFO - Entered username
+2020-02-19 17:14:55,862 - TC_LoginTest_001.class -INFO - Entered Password
+2020-02-19 19:34:03,375 - TC_LoginTest_001.class -INFO - user name provided
+2020-02-19 19:34:03,447 - TC_LoginTest_001.class -INFO - password provided
+2020-02-19 19:34:08,150 - TC_LoginTest_001.class -INFO - Login passed
+2020-02-19 19:36:34,741 - TC_LoginTest_001.class -INFO - user name provided
+2020-02-19 19:36:34,820 - TC_LoginTest_001.class -INFO - password provided
+2020-02-19 19:36:36,615 - TC_LoginTest_001.class -INFO - Login passed
+2020-02-19 19:36:42,463 - TC_LoginTest_001.class -INFO - user name provided
+2020-02-19 19:36:42,528 - TC_LoginTest_001.class -INFO - password provided
+2020-02-19 19:36:43,964 - TC_LoginTest_001.class -INFO - user name provided
+2020-02-19 19:36:44,024 - TC_LoginTest_001.class -INFO - password provided
+2020-02-19 19:36:46,059 - TC_LoginTest_001.class -INFO - user name provided
+2020-02-19 19:36:46,115 - TC_LoginTest_001.class -INFO - password provided
+2020-02-19 19:36:47,957 - TC_LoginTest_001.class -INFO - user name provided
+2020-02-19 19:36:48,011 - TC_LoginTest_001.class -INFO - password provided
+2020-02-19 19:36:50,012 - TC_LoginTest_001.class -INFO - user name provided
+2020-02-19 19:36:50,075 - TC_LoginTest_001.class -INFO - password provided
+2020-02-19 22:37:05,679 - TC_LoginTest_001.class -INFO - Customer name is provided
+2020-02-19 22:37:05,749 - TC_LoginTest_001.class -INFO - Password is provided
+2020-02-19 22:39:07,062 - TC_LoginTest_001.class -INFO - Customer name is provided
+2020-02-19 22:39:07,138 - TC_LoginTest_001.class -INFO - Password is provided
+2020-02-19 22:47:25,941 - TC_LoginTest_001.class -INFO - Customer name is provided
+2020-02-19 22:47:26,050 - TC_LoginTest_001.class -INFO - Password is provided
+2020-02-19 22:53:26,050 - TC_LoginTest_001.class -INFO - User name is provided
+2020-02-19 22:53:26,154 - TC_LoginTest_001.class -INFO - Passsword is provided
+2020-02-19 22:55:47,765 - TC_LoginTest_001.class -INFO - User name is provided
+2020-02-19 22:55:47,835 - TC_LoginTest_001.class -INFO - Passsword is provided
+2020-02-19 22:59:15,014 - TC_LoginTest_001.class -INFO - User name is provided
+2020-02-19 22:59:15,100 - TC_LoginTest_001.class -INFO - Passsword is provided
+2020-02-19 23:00:17,398 - TC_LoginTest_001.class -INFO - User name is provided
+2020-02-19 23:00:17,427 - TC_LoginTest_001.class -INFO - Passsword is provided
+2020-02-19 23:00:33,304 - TC_LoginTest_001.class -INFO - clicked on new customer
+2020-02-19 23:00:33,305 - TC_LoginTest_001.class -INFO - providing customer details....
+2020-02-19 23:00:41,935 - TC_LoginTest_001.class -INFO - validation started....
+2020-02-19 23:03:36,061 - TC_LoginTest_001.class -INFO - User name is provided
+2020-02-19 23:03:36,095 - TC_LoginTest_001.class -INFO - Passsword is provided
+2020-02-19 23:03:53,477 - TC_LoginTest_001.class -INFO - clicked on new customer
+2020-02-19 23:03:53,479 - TC_LoginTest_001.class -INFO - providing customer details....
+2020-02-19 23:04:12,102 - TC_LoginTest_001.class -INFO - validation started....
+2020-02-19 23:05:01,089 - TC_LoginTest_001.class -INFO - User name is provided
+2020-02-19 23:05:01,121 - TC_LoginTest_001.class -INFO - Passsword is provided
+2020-02-19 23:05:18,778 - TC_LoginTest_001.class -INFO - clicked on new customer
+2020-02-19 23:05:18,778 - TC_LoginTest_001.class -INFO - providing customer details....
+2020-02-19 23:05:42,358 - TC_LoginTest_001.class -INFO - validation started....
+2020-02-19 23:07:40,334 - TC_LoginTest_001.class -INFO - User name is provided
+2020-02-19 23:07:40,370 - TC_LoginTest_001.class -INFO - Passsword is provided
+2020-02-19 23:07:53,987 - TC_LoginTest_001.class -INFO - clicked on new customer
+2020-02-19 23:07:53,987 - TC_LoginTest_001.class -INFO - providing customer details....
+2020-02-19 23:07:59,602 - TC_LoginTest_001.class -INFO - validation started....
+2020-02-19 23:10:22,465 - TC_LoginTest_001.class -INFO - User name is provided
+2020-02-19 23:10:22,499 - TC_LoginTest_001.class -INFO - Passsword is provided
+2020-02-19 23:10:38,231 - TC_LoginTest_001.class -INFO - clicked on new customer
+2020-02-19 23:10:38,232 - TC_LoginTest_001.class -INFO - providing customer details....
+2020-02-19 23:11:01,833 - TC_LoginTest_001.class -INFO - validation started....
+2020-02-19 23:15:42,955 - TC_LoginTest_001.class -INFO - User name is provided
+2020-02-19 23:15:43,029 - TC_LoginTest_001.class -INFO - Passsword is provided
+2020-02-19 23:15:47,897 - TC_LoginTest_001.class -INFO - clicked on new customer
+2020-02-19 23:15:47,897 - TC_LoginTest_001.class -INFO - providing customer details....
+2020-02-19 23:15:57,660 - TC_LoginTest_001.class -INFO - validation started....
+2020-02-19 23:17:52,443 - TC_LoginTest_001.class -INFO - User name is provided
+2020-02-19 23:17:52,519 - TC_LoginTest_001.class -INFO - Passsword is provided
+2020-02-19 23:17:59,192 - TC_LoginTest_001.class -INFO - clicked on new customer
+2020-02-19 23:17:59,193 - TC_LoginTest_001.class -INFO - providing customer details....
+2020-02-19 23:18:08,754 - TC_LoginTest_001.class -INFO - validation started....
+2020-02-19 23:23:24,773 - TC_LoginTest_001.class -INFO - User name is provided
+2020-02-19 23:23:24,845 - TC_LoginTest_001.class -INFO - Passsword is provided
+2020-02-19 23:23:30,131 - TC_LoginTest_001.class -INFO - clicked on new customer
+2020-02-19 23:23:30,132 - TC_LoginTest_001.class -INFO - providing customer details....
+2020-02-19 23:23:40,941 - TC_LoginTest_001.class -INFO - validation started....
+2020-02-19 23:23:40,963 - TC_LoginTest_001.class -INFO - test case passed....
+2020-02-20 12:00:55,532 - TC_LoginTest_001.class -INFO - Url opened
+2020-02-20 12:00:55,799 - TC_LoginTest_001.class -INFO - Entered username
+2020-02-20 12:00:55,957 - TC_LoginTest_001.class -INFO - Entered Password
+2020-02-20 12:01:08,418 - TC_LoginTest_001.class -INFO - user name provided
+2020-02-20 12:01:08,502 - TC_LoginTest_001.class -INFO - password provided
+2020-02-20 12:01:10,884 - TC_LoginTest_001.class -INFO - Login passed
+2020-02-20 12:01:16,276 - TC_LoginTest_001.class -INFO - user name provided
+2020-02-20 12:01:16,391 - TC_LoginTest_001.class -INFO - password provided
+2020-02-20 12:01:19,699 - TC_LoginTest_001.class -INFO - user name provided
+2020-02-20 12:01:19,762 - TC_LoginTest_001.class -INFO - password provided
+2020-02-20 12:01:22,203 - TC_LoginTest_001.class -INFO - user name provided
+2020-02-20 12:01:22,329 - TC_LoginTest_001.class -INFO - password provided
+2020-02-20 12:01:24,520 - TC_LoginTest_001.class -INFO - user name provided
+2020-02-20 12:01:24,584 - TC_LoginTest_001.class -INFO - password provided
+2020-02-20 12:01:27,557 - TC_LoginTest_001.class -INFO - user name provided
+2020-02-20 12:01:27,767 - TC_LoginTest_001.class -INFO - password provided
+2020-02-20 12:01:37,629 - TC_LoginTest_001.class -INFO - User name is provided
+2020-02-20 12:01:37,714 - TC_LoginTest_001.class -INFO - Passsword is provided
+2020-02-20 12:01:44,189 - TC_LoginTest_001.class -INFO - clicked on new customer
+2020-02-20 12:01:44,189 - TC_LoginTest_001.class -INFO - providing customer details....
+2020-02-20 12:01:58,241 - TC_LoginTest_001.class -INFO - validation started....
+2020-02-20 12:01:58,256 - TC_LoginTest_001.class -INFO - test case passed....
+2020-02-20 12:06:00,781 - TC_LoginTest_001.class -INFO - user name provided
+2020-02-20 12:06:00,869 - TC_LoginTest_001.class -INFO - password provided
+2020-02-20 12:06:03,014 - TC_LoginTest_001.class -INFO - user name provided
+2020-02-20 12:06:03,093 - TC_LoginTest_001.class -INFO - password provided
+2020-02-20 12:06:04,930 - TC_LoginTest_001.class -INFO - user name provided
+2020-02-20 12:06:05,028 - TC_LoginTest_001.class -INFO - password provided
+2020-02-20 12:06:07,514 - TC_LoginTest_001.class -INFO - user name provided
+2020-02-20 12:06:07,631 - TC_LoginTest_001.class -INFO - password provided
+2020-02-20 12:06:10,331 - TC_LoginTest_001.class -INFO - user name provided
+2020-02-20 12:06:10,510 - TC_LoginTest_001.class -INFO - password provided
+2020-02-20 12:06:22,470 - TC_LoginTest_001.class -INFO - Url opened
+2020-02-20 12:06:22,572 - TC_LoginTest_001.class -INFO - Entered username
+2020-02-20 12:06:22,702 - TC_LoginTest_001.class -INFO - Entered Password
+2020-02-20 12:06:31,254 - TC_LoginTest_001.class -INFO - login test Passed
+2020-02-20 13:07:46,594 - TC_LoginTest_001.class -INFO - Url opened
+2020-02-20 13:07:46,818 - TC_LoginTest_001.class -INFO - Entered username
+2020-02-20 13:07:46,911 - TC_LoginTest_001.class -INFO - Entered Password
+2020-02-20 13:07:48,286 - TC_LoginTest_001.class -INFO - login test Passed
+2020-02-20 13:08:02,401 - TC_LoginTest_001.class -INFO - user name provided
+2020-02-20 13:08:02,493 - TC_LoginTest_001.class -INFO - password provided
+2020-02-20 13:08:04,497 - TC_LoginTest_001.class -INFO - Login passed
+2020-02-20 13:08:10,393 - TC_LoginTest_001.class -INFO - user name provided
+2020-02-20 13:08:10,473 - TC_LoginTest_001.class -INFO - password provided
+2020-02-20 13:08:13,035 - TC_LoginTest_001.class -INFO - user name provided
+2020-02-20 13:08:13,214 - TC_LoginTest_001.class -INFO - password provided
+2020-02-20 13:08:15,036 - TC_LoginTest_001.class -INFO - user name provided
+2020-02-20 13:08:15,138 - TC_LoginTest_001.class -INFO - password provided
+2020-02-20 13:08:17,557 - TC_LoginTest_001.class -INFO - user name provided
+2020-02-20 13:08:17,747 - TC_LoginTest_001.class -INFO - password provided
+2020-02-20 13:08:19,657 - TC_LoginTest_001.class -INFO - user name provided
+2020-02-20 13:08:19,724 - TC_LoginTest_001.class -INFO - password provided
+2020-02-20 13:08:30,427 - TC_LoginTest_001.class -INFO - User name is provided
+2020-02-20 13:08:30,509 - TC_LoginTest_001.class -INFO - Passsword is provided
+2020-02-20 13:10:56,290 - TC_LoginTest_001.class -INFO - User name is provided
+2020-02-20 13:10:56,392 - TC_LoginTest_001.class -INFO - Passsword is provided
+2020-02-20 13:11:43,999 - TC_LoginTest_001.class -INFO - User name is provided
+2020-02-20 13:11:44,093 - TC_LoginTest_001.class -INFO - Passsword is provided
+2020-02-20 13:11:50,447 - TC_LoginTest_001.class -INFO - clicked on new customer
+2020-02-20 13:11:50,450 - TC_LoginTest_001.class -INFO - providing customer details....
+2020-02-20 13:12:47,577 - TC_LoginTest_001.class -INFO - User name is provided
+2020-02-20 13:12:47,665 - TC_LoginTest_001.class -INFO - Passsword is provided
+2020-02-20 13:12:53,257 - TC_LoginTest_001.class -INFO - clicked on new customer
+2020-02-20 13:12:53,258 - TC_LoginTest_001.class -INFO - providing customer details....
+2020-02-20 13:13:15,249 - TC_LoginTest_001.class -INFO - validation started....
+2020-02-20 13:13:15,286 - TC_LoginTest_001.class -INFO - test case passed....
+2020-02-20 13:14:48,304 - TC_LoginTest_001.class -INFO - Url opened
+2020-02-20 13:14:48,469 - TC_LoginTest_001.class -INFO - Entered username
+2020-02-20 13:14:48,551 - TC_LoginTest_001.class -INFO - Entered Password
+2020-02-20 13:14:49,973 - TC_LoginTest_001.class -INFO - login test Passed
+2020-02-20 13:14:58,594 - TC_LoginTest_001.class -INFO - user name provided
+2020-02-20 13:14:58,687 - TC_LoginTest_001.class -INFO - password provided
+2020-02-20 13:15:00,387 - TC_LoginTest_001.class -INFO - Login passed
+2020-02-20 13:15:05,868 - TC_LoginTest_001.class -INFO - user name provided
+2020-02-20 13:15:06,070 - TC_LoginTest_001.class -INFO - password provided
+2020-02-20 13:15:07,931 - TC_LoginTest_001.class -INFO - user name provided
+2020-02-20 13:15:08,112 - TC_LoginTest_001.class -INFO - password provided
+2020-02-20 13:15:10,457 - TC_LoginTest_001.class -INFO - user name provided
+2020-02-20 13:15:10,674 - TC_LoginTest_001.class -INFO - password provided
+2020-02-20 13:15:13,361 - TC_LoginTest_001.class -INFO - user name provided
+2020-02-20 13:15:13,563 - TC_LoginTest_001.class -INFO - password provided
+2020-02-20 13:15:17,763 - TC_LoginTest_001.class -INFO - user name provided
+2020-02-20 13:15:17,842 - TC_LoginTest_001.class -INFO - password provided
+2020-02-20 13:15:27,557 - TC_LoginTest_001.class -INFO - User name is provided
+2020-02-20 13:15:27,658 - TC_LoginTest_001.class -INFO - Passsword is provided
+2020-02-20 13:16:32,487 - TC_LoginTest_001.class -INFO - Url opened
+2020-02-20 13:16:32,738 - TC_LoginTest_001.class -INFO - Entered username
+2020-02-20 13:16:32,859 - TC_LoginTest_001.class -INFO - Entered Password
+2020-02-20 13:16:34,979 - TC_LoginTest_001.class -INFO - login test Passed
+2020-02-20 13:16:43,577 - TC_LoginTest_001.class -INFO - user name provided
+2020-02-20 13:16:43,692 - TC_LoginTest_001.class -INFO - password provided
+2020-02-20 13:16:45,378 - TC_LoginTest_001.class -INFO - Login passed
+2020-02-20 13:16:51,490 - TC_LoginTest_001.class -INFO - user name provided
+2020-02-20 13:16:51,683 - TC_LoginTest_001.class -INFO - password provided
+2020-02-20 13:16:54,230 - TC_LoginTest_001.class -INFO - user name provided
+2020-02-20 13:16:54,295 - TC_LoginTest_001.class -INFO - password provided
+2020-02-20 13:16:56,051 - TC_LoginTest_001.class -INFO - user name provided
+2020-02-20 13:16:56,134 - TC_LoginTest_001.class -INFO - password provided
+2020-02-20 13:16:58,083 - TC_LoginTest_001.class -INFO - user name provided
+2020-02-20 13:16:58,279 - TC_LoginTest_001.class -INFO - password provided
+2020-02-20 13:17:00,663 - TC_LoginTest_001.class -INFO - user name provided
+2020-02-20 13:17:00,802 - TC_LoginTest_001.class -INFO - password provided
+2020-02-20 13:17:11,421 - TC_LoginTest_001.class -INFO - User name is provided
+2020-02-20 13:17:11,502 - TC_LoginTest_001.class -INFO - Passsword is provided
+2020-02-20 13:17:18,038 - TC_LoginTest_001.class -INFO - clicked on new customer
+2020-02-20 13:17:18,038 - TC_LoginTest_001.class -INFO - providing customer details....
+2020-02-20 13:17:39,845 - TC_LoginTest_001.class -INFO - validation started....
+2020-02-20 13:17:39,876 - TC_LoginTest_001.class -INFO - test case passed....
+2020-02-20 13:19:15,901 - TC_LoginTest_001.class -INFO - Url opened
+2020-02-20 13:19:16,045 - TC_LoginTest_001.class -INFO - Entered username
+2020-02-20 13:19:16,123 - TC_LoginTest_001.class -INFO - Entered Password
+2020-02-20 13:19:20,326 - TC_LoginTest_001.class -INFO - login test Passed
+2020-02-20 13:25:42,786 - TC_LoginTest_001.class -INFO - Url opened
+2020-02-20 13:25:42,948 - TC_LoginTest_001.class -INFO - Entered username
+2020-02-20 13:25:43,030 - TC_LoginTest_001.class -INFO - Entered Password
+2020-02-20 13:25:44,371 - TC_LoginTest_001.class -INFO - login test Passed
+2020-02-20 13:25:52,205 - TC_LoginTest_001.class -INFO - User name is provided
+2020-02-20 13:25:52,282 - TC_LoginTest_001.class -INFO - Passsword is provided
+2020-02-20 13:30:16,187 - TC_LoginTest_001.class -INFO - User name is provided
+2020-02-20 13:30:16,278 - TC_LoginTest_001.class -INFO - Passsword is provided
+2020-02-20 13:30:22,706 - TC_LoginTest_001.class -INFO - clicked on new customer
+2020-02-20 13:30:22,708 - TC_LoginTest_001.class -INFO - providing customer details....
+2020-02-20 13:30:43,791 - TC_LoginTest_001.class -INFO - validation started....
+2020-02-20 13:40:01,126 - TC_LoginTest_001.class -INFO - Url opened
+2020-02-20 13:40:01,278 - TC_LoginTest_001.class -INFO - Entered username
+2020-02-20 13:40:01,367 - TC_LoginTest_001.class -INFO - Entered Password
+2020-02-20 13:40:02,721 - TC_LoginTest_001.class -INFO - login test Passed
+2020-02-20 13:40:14,007 - TC_LoginTest_001.class -INFO - user name provided
+2020-02-20 13:40:14,114 - TC_LoginTest_001.class -INFO - password provided
+2020-02-20 13:40:15,733 - TC_LoginTest_001.class -INFO - Login passed
+2020-02-20 13:40:21,344 - TC_LoginTest_001.class -INFO - user name provided
+2020-02-20 13:40:21,537 - TC_LoginTest_001.class -INFO - password provided
+2020-02-20 13:40:23,432 - TC_LoginTest_001.class -INFO - user name provided
+2020-02-20 13:40:23,624 - TC_LoginTest_001.class -INFO - password provided
+2020-02-20 13:40:25,827 - TC_LoginTest_001.class -INFO - user name provided
+2020-02-20 13:40:25,896 - TC_LoginTest_001.class -INFO - password provided
+2020-02-20 13:40:27,872 - TC_LoginTest_001.class -INFO - user name provided
+2020-02-20 13:40:28,064 - TC_LoginTest_001.class -INFO - password provided
+2020-02-20 13:40:30,335 - TC_LoginTest_001.class -INFO - user name provided
+2020-02-20 13:40:30,497 - TC_LoginTest_001.class -INFO - password provided
+2020-02-20 13:40:39,694 - TC_LoginTest_001.class -INFO - User name is provided
+2020-02-20 13:40:39,778 - TC_LoginTest_001.class -INFO - Passsword is provided
+2020-02-20 13:40:45,649 - TC_LoginTest_001.class -INFO - clicked on new customer
+2020-02-20 13:40:45,651 - TC_LoginTest_001.class -INFO - providing customer details....
+2020-02-20 13:41:07,776 - TC_LoginTest_001.class -INFO - validation started....
+2020-02-20 13:41:07,799 - TC_LoginTest_001.class -INFO - test case passed....
+2020-02-20 14:47:32,559 - TC_LoginTest_001.class -INFO - Url opened
+2020-02-20 14:47:32,713 - TC_LoginTest_001.class -INFO - Entered username
+2020-02-20 14:47:32,811 - TC_LoginTest_001.class -INFO - Entered Password
+2020-02-20 14:47:34,152 - TC_LoginTest_001.class -INFO - login test Passed
+2020-02-24 10:11:14,392 - TC_LoginTest_001.class -INFO - Url opened
+2020-02-24 10:11:14,506 - TC_LoginTest_001.class -INFO - Entered username
+2020-02-24 10:11:14,577 - TC_LoginTest_001.class -INFO - Entered Password
+2020-02-24 10:11:15,648 - TC_LoginTest_001.class -INFO - login test Passed
+2020-02-24 10:14:32,708 - TC_LoginTest_001.class -INFO - Url opened
+2020-02-24 10:14:32,824 - TC_LoginTest_001.class -INFO - Entered username
+2020-02-24 10:14:32,895 - TC_LoginTest_001.class -INFO - Entered Password
+2020-02-24 10:14:33,977 - TC_LoginTest_001.class -INFO - login test Passed
+2020-02-24 11:19:25,569 - TC_LoginTest_001.class -INFO - Url opened
+2020-02-24 11:19:25,711 - TC_LoginTest_001.class -INFO - Entered username
+2020-02-24 11:19:25,793 - TC_LoginTest_001.class -INFO - Entered Password
+2020-02-24 11:19:27,085 - TC_LoginTest_001.class -INFO - login test Passed
+2020-02-24 11:31:01,298 - TC_LoginTest_001.class -INFO - Url opened
+2020-02-24 11:31:01,399 - TC_LoginTest_001.class -INFO - Entered username
+2020-02-24 11:31:01,455 - TC_LoginTest_001.class -INFO - Entered Password
+2020-02-24 11:31:04,592 - TC_LoginTest_001.class -INFO - login test Passed
+2020-02-24 13:36:17,418 - TC_LoginTest_001.class -INFO - Url opened
+2020-02-24 13:36:17,530 - TC_LoginTest_001.class -INFO - Entered username
+2020-02-24 13:36:17,590 - TC_LoginTest_001.class -INFO - Entered Password
+2020-02-24 13:36:18,612 - TC_LoginTest_001.class -INFO - login test Passed
+2020-02-24 14:22:43,793 - TC_LoginTest_001.class -INFO - Url opened
+2020-02-24 14:22:43,945 - TC_LoginTest_001.class -INFO - Entered username
+2020-02-24 14:22:44,021 - TC_LoginTest_001.class -INFO - Entered Password
+2020-02-24 14:22:45,208 - TC_LoginTest_001.class -INFO - login test Passed
+2020-02-24 14:52:43,688 - TC_LoginTest_001.class -INFO - Url opened
+2020-02-24 14:52:44,000 - TC_LoginTest_001.class -INFO - Entered username
+2020-02-24 14:52:44,296 - TC_LoginTest_001.class -INFO - Entered Password
+2020-02-24 14:52:45,747 - TC_LoginTest_001.class -INFO - login test Passed
